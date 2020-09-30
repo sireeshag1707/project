@@ -1,2 +1,2 @@
-# project
-full stack web development 
+# An Amazing Project
+-Full Stack Web Development
